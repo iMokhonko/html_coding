@@ -158,20 +158,6 @@
       </div>
     </div>
 
-    <!-- <div class="section">
-      <div class="container section__content">
-        <img id="disappear" style="border-radius:5px" src="http://localhost:8080/trump.jpg" />
-        <a href="#" @click.prevent="disintegrate()">DELETE DONAL TRUMP</a>
-        <a href="#" @click.prevent="unsnap()">UNSNAP</a>
-      </div>
-    </div> -->
-
-    <!-- <div class="section section--seagreen">
-      <div class="container section__content">
-        <div class="testBlock"></div>
-      </div>
-    </div> -->
-
     <div class="section section--grey">
       <div class="container">
         <div class="section__content">
